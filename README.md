@@ -1,4 +1,4 @@
-Clone the Repository
+Clone the Repository <br>
 Run the command: npm start 
 <img width="947" alt="Screenshot 2024-03-14 195128" src="https://github.com/yogita14-pro/auraartworkswebsite/assets/79137050/82595ab1-ea62-4634-88b3-74331c7779ba">
 <img width="953" alt="Screenshot 2024-03-14 195147" src="https://github.com/yogita14-pro/auraartworkswebsite/assets/79137050/7b3faa43-7c15-4044-a9b3-547e554e21d8">
